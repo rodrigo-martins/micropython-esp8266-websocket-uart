@@ -2,7 +2,7 @@
 <p>To use UART0 port micropython (esp8266) through connection of websocket<br>
 This websocket project is based at upy-websocket-server. The reference is below</p>
 <ol>
-<li>Modify the <a href="http://boot.py">boot.py</a> at line 12 to connect on your wifi<br>
+<li>Modify the boot.py at line 12 to connect on your wifi<br>
 do_connect(<code>&lt;ESSID&gt;</code>, <code>&lt;PASSWORD&gt;</code>)</li>
 <li>Upload all scripts and HTML page to device</li>
 <li>Restart the device</li>
