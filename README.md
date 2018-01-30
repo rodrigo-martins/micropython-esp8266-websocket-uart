@@ -7,7 +7,7 @@ do_connect(<code>&lt;ESSID&gt;</code>, <code>&lt;PASSWORD&gt;</code>)</li>
 <li>Upload all scripts and HTML page to device</li>
 <li>Restart the device</li>
 <li>Execute the <code>import websocket_demo</code>.</li>
-<li>If you want to start the application directly,  put <code>import websocket_demo</code> in the end of <a href="http://boot.py">boot.py</a></li>
+<li>If you want to start the application directly,  put <code>import websocket_demo</code> in the end of boot.py</li>
 </ol>
 <h3><a id="Tutorial_13"></a>Tutorial</h3>
 <p><a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE"></a></p>
