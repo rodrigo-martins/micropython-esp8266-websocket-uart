@@ -1,5 +1,5 @@
 <h1><a id="micropythonesp8266websocketuart_0"></a>micropython-esp8266-websocket-uart</h1>
-<p>To use UART0 port micropython (esp8266) through connection of websocket<br>
+<p>To use UART0 port micropython (esp8266) through websocket connection<br>
 This websocket project is based at upy-websocket-server. The reference is below</p>
 <ol>
 <li>Modify the boot.py at line 12 to connect on your wifi<br>
